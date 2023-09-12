@@ -1,10 +1,10 @@
 ---
 order: 1
-forID: kc-sink-snowflake
+forID: kc-sink-aep
 categories: [sink]
 ---
 
-1. Download or build the connector plugin JAR from the [repository](https://github.com/snowflakedb/snowflake-kafka-connector){:target="_blank"}.
+1. Download or build the connector plugin JAR from the [repository](https://github.com/adobe/experience-platform-streaming-connect){:target="_blank"}.
 2. {{site.data.reuse.kafkaConnectStep2_title}}
 
    {{site.data.reuse.kafkaConnectStep2_content_1}}
